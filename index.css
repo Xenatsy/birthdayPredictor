@@ -1,0 +1,13 @@
+button {
+    width: 33%;
+}
+div, button {
+    height: 25%;
+    font-size: larger;
+}
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
