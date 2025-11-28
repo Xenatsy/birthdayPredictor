@@ -1,15 +1,8 @@
-* {
-    margin: 0px;
-}
-
 button {
     width: calc(100%/3);
     height: 100%;
 }
 
-button, div{
-    font-size: xx-large;
-}
 div {
     display: flex;
     align-items: center;
